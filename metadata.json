@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CyberTrivia",
+  "description": "Cyber-themed multiplayer-simulated real-time quiz platform with dynamic Gemini custom category generation, achievements, leaderboards, and dark mode!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
